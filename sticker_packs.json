@@ -19,15 +19,35 @@
 		"identifier": "NARUTOSHIPPUDEN2",
 		"name": "Naruto Shippuden",
 		"stickers": 20
-	},{
+	},
+	{
 		"identifier": "8232e119d8f59aa83050a741631803a6",
 		"name": "Naruto Shippuden",
 		"stickers": 30
-	},{
+	},
+	{
 		"identifier": "7b1ce3d73b70f1a7246e7b76a35fb552",
 		"name": "Naruto Shippuden",
 		"stickers": 10
+	},
+	{
+		"identifier": "8",
+		"name": "Naruto",
+		"stickers": 25
+	},
+	{
+		"identifier": "10",
+		"name": "Naruto Shippuden",
+		"stickers": 30
+	},
+	{
+		"identifier": "11",
+		"name": "Naruto Shippuden",
+		"stickers": 30
+	},
+	{
+		"identifier": "2",
+		"name": "Naruto",
+		"stickers": 29
 	}
 ]
-
-
